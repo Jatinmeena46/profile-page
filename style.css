@@ -1,0 +1,81 @@
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+ body {
+    background-color: palegoldenrod;
+ }
+#container {
+    background-color: red;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 0 30px 1px #0000003b; ;
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 500px;
+}
+#container2 {
+    background-color: rosybrown;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 0 30px 1px #0000003b; ;
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 500px;
+}
+#container img {
+    max-width: 100px;
+    border-radius: 50px;
+}
+#container h3 {
+    padding-left: 10px;
+}
+#security {
+    padding-left: 10px;
+    margin-top: -19px;
+}
+#profile{
+    margin-bottom: -9px;
+}
+ul {
+    list-style: none;
+    padding-left: 10px;
+}
+.details {
+    text-align: left;
+    position: relative;
+    justify-content: center;
+    padding-top: 0px;
+    margin-top: -250px;
+    /* background-color: blueviolet; */
+    width: 350px;
+    height: 350px;
+    margin-left: 250px;
+}
+.work{
+    background-color: rosybrown;
+    padding: 21.8px 10px;
+    box-shadow: 0 0 35px 5px burlywood ;
+}
+.work i {
+    padding: 0px 20px;
+}
+#friends {
+    margin-top: 15px;
+    background-color: rosybrown;
+    box-shadow: 0 0 35px 5px rosybrown;
+
+    height: 100px;
+}
+#friends img {
+    border-radius: ;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
