@@ -78,4 +78,10 @@ ul {
     margin-top: 10px;
     margin-left: 10px;
 }
+@media (max-width: 768px) {
+    .column {
+        width: 100%; /* Stack columns on small screens */
+    }
+}
+
 
